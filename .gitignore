@@ -1,0 +1,34 @@
+# Python-related
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# IDE/Editor files
+.vscode/
+.idea/
+*.code-workspace
+*.sublime-project
+*.sublime-workspace
+
+# Environment
+.venv/
+.env
+.secret
+
+# Compiled files
+*.pyc
+*.pyo
+
+# Logs and databases
+*.log
+*.db
+
+# Miscellaneous
+*.swp
+.DS_Store
+output
+tmp
+src/table.md
+*.pdf
+*.docx
